@@ -1,0 +1,10 @@
+:host {
+  ::ng-deep ion-skeleton-text {
+    --background-rgb: 255, 0, 0;
+  }
+
+  ion-avatar {
+    width: 60px;
+    height: 60px;
+  }
+}
