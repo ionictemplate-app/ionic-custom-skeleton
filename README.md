@@ -1,3 +1,8 @@
+<img src="https://i.ibb.co/N1fhpxB/01.gif" alt="Ionic 5 / Angular 11 Fitness  Template/Full App | Starter App"/>
+<img src="https://i.ibb.co/McLF94Q/02.gif" alt="Ionic 5 / Angular 11 Fitness  Template/Full App | Starter App" border="0"/>
+<img src="https://i.ibb.co/KNXGyHx/03.gif" alt="Ionic 5 / Angular 11 Fitness  Template/Full App | Starter App" border="0"/>
+https://codecanyon.net/item/ionic-6-angular-10-fitness-theme-template-androidioswebapp/29415999
+
 # ionic-custom-skeleton
 ionic 5 custom skeleton  loading ,Skeleton Text is a component for rendering placeholder content. 
 
@@ -30,3 +35,6 @@ ionic 5 custom skeleton  loading ,Skeleton Text is a component for rendering pla
 
 ![demo](https://github.com/ionictemplate-app/ionic-custom-skeleton/blob/master/src/assets/images/11.jpg)
 ![demo](https://github.com/ionictemplate-app/ionic-custom-skeleton/blob/master/src/assets/images/12.jpg)
+
+![demo](https://i.ibb.co/N1fhpxB/01.gif)
+ https://codecanyon.net/item/ionic-6-angular-10-fitness-theme-template-androidioswebapp/29415999
